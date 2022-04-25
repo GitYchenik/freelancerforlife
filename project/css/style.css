@@ -1,0 +1,11 @@
+div {
+    color: aqua;
+}
+span {
+    font-size: 20px;
+    color:red;
+}
+
+.red {
+    font-weight: bold;
+}
