@@ -9,3 +9,41 @@ span {
 .red {
     font-weight: bold;
 }
+
+.fontsize30 {
+    font-size: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
+.font700{
+    font-weight: 700;
+}
+.colorred {
+    color: red;
+}
+.textright {
+    text-align: center;
+}
+.decoration {
+    text-decoration: none;
+}
+.shadow {
+    text-shadow: 1px 1px 10px;
+}
+.uppercase {
+    text-transform: none;
+}
+.ident {
+    text-indent: 50px;
+}
+.lspace {
+    letter-spacing: 5px;
+}
+.wspace {
+    word-spacing: 5px;
+}
+.whitespace {
+
+} 
