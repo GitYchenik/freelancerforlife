@@ -45,5 +45,8 @@ span {
     word-spacing: 5px;
 }
 .whitespace {
-
+    white-space: nowrap ;
 } 
+.lineheight {
+    line-height: 40px;
+}
